@@ -1,6 +1,6 @@
-# Colonist.io Game Data - Public Dataset
+#  Game Data - Public Dataset
 
-This dataset contains **43,947 games** from Colonist.io (online Catan), anonymized for research and analysis purposes.
+This dataset contains **43,947 games** (online Catan), anonymized for research and analysis purposes.
 
 ## Download
 

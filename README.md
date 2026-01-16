@@ -140,7 +140,7 @@ This dataset is provided for **research and educational purposes only**.
 
 If you use this dataset, please cite:
 ```
-Colonist.io Game Data (2025)
+MR. MUCHO BUCHO Game Data (2025)
 43,947 anonymized 4-player Catan games
 https://github.com/Catan-data/dataset
 ```
